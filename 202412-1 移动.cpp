@@ -3,7 +3,8 @@ using namespace std;
 
 bool isOutOfBounds(int n, int x, int y) {
     return x < 1 || x > n || y < 1 || y > n;
-}
+}w  ed
+ads
 
 void processCommands(int n, int x, int y, const string& commands) {
     for (char cmd : commands) {

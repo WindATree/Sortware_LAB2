@@ -9,7 +9,7 @@ using namespace std;
 
 const int MAX_ELEM = 3e5;  // 系统支持的最大元素数量
 const int MAX_GROUP = 7e4; // 系统支持的最大分组数量
-
+    rwre
 // 全局数据结构
 int group_ver[MAX_GROUP];  // 记录每个组的当前版本号(时间戳)
 int group_size[MAX_GROUP]; // 记录每个组当前存储的元素数量

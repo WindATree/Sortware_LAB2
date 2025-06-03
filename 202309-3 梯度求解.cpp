@@ -8,11 +8,7 @@
 最后就是cin.ignore()，在getline之前调用，忽略输入带来的换行符
 使用stringstream，传入一个字符串，可以用 >> 运算符自动按照空格 制表符分割，相当于split()操作
 */
-#include <iostream>
-#include <string>
-#include <vector>
-#include <stack>
-#include <sstream>
+
 
 using namespace std;
 
