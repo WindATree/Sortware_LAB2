@@ -28,3 +28,6 @@ int main(){
     cout<<ans[n-1]<<" "<<endl;
     return 0;
 }
+EWRQIUOHFOIJEWQBDO
+CJBQWOUIDNXLKJS
+MNCLKJFWHEQOIFUBCQC
